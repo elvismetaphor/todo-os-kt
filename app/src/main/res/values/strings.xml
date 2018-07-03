@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">ToDo List</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_bar_title_todo_list">Todo</string>
+    <string name="action_bar_title_finish_list">Finished</string>
+    <string name="create_todo">Create Todo</string>
+    <string name="delete_todo">Delete Todo</string>
+    <string name="delete_todo_message">Do you really want to delete this task?</string>
+    <string name="phrase_cancel">Cancel</string>
+    <string name="phrase_ok">OK</string>
+</resources>
