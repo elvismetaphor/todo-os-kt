@@ -1,7 +1,7 @@
 # todo-os-kt
 A simple todo app run in Android written in Kotlin.
 
-## What I do
+## What I did
 1. Fix issues
 2. Move SharePreferenceStore into ViewModel
 
